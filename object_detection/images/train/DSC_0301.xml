@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DSC_0301.jpg</filename>
+	<path>C:\Users\highl\Tensorflow2\models\research\object_detection\images\train\DSC_0301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>149</ymin>
+			<xmax>543</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

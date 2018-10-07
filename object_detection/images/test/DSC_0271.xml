@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DSC_0271.jpg</filename>
+	<path>C:\Users\highl\Tensorflow2\models\research\object_detection\images\test\DSC_0271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>210</ymin>
+			<xmax>494</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

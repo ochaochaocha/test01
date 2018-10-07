@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'Cap Ocha'
+}
+
+item {
+  id: 2
+  name: 'Cap Meiji'
+}
+
+item {
+  id: 3
+  name: 'Algurad'
+}
+
+item {
+  id: 4
+  name: 'Premium'
+}
